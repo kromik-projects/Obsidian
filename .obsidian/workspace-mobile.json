@@ -11,10 +11,14 @@
             "id": "6d06f69fd76ac09d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "TS & JS Tutorial/00 - Welcome.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "00 - Welcome"
             }
           }
         ]
@@ -108,6 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "TS & JS Tutorial/00 - Welcome.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -126,6 +131,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "TS & JS Tutorial/00 - Welcome.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -139,6 +145,7 @@
         "state": {
           "type": "outline",
           "state": {
+            "file": "TS & JS Tutorial/00 - Welcome.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -162,7 +169,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b1ccf2eddf4804ed",
+  "active": "6d06f69fd76ac09d",
   "lastOpenFiles": [
     "TS & JS Tutorial/01 - Introduction to JavaScript.md",
     "TS & JS Tutorial/15 - Development Environment Setup.md",

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c0c98deef4be0652",
+        "id": "3696a3b6561d35a7",
         "type": "tabs",
         "children": [
           {
-            "id": "a438fdb6edf167ff",
+            "id": "6d06f69fd76ac09d",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -146,19 +146,9 @@
           "icon": "lucide-list",
           "title": "Outline"
         }
-      },
-      {
-        "id": "54b73a321216a514",
-        "type": "leaf",
-        "state": {
-          "type": "git-view",
-          "state": {},
-          "icon": "git-pull-request",
-          "title": "Source Control"
-        }
       }
     ],
-    "currentTab": 3
+    "currentTab": 2
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,11 +162,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a438fdb6edf167ff",
+  "active": "6d06f69fd76ac09d",
   "lastOpenFiles": [
-    "Untitled.base",
-    "2026-01-20.md",
+    "New Empty Note.md",
     "Untitled.canvas",
-    "Untitled.md"
+    "Untitled 1.canvas",
+    "2026-01-20.md",
+    "Untitled.base"
   ]
 }

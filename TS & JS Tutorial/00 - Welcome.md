@@ -5,8 +5,7 @@ Welcome to your learning journey into JavaScript and TypeScript! This vault is d
 ## Learning Path
 
 ### JavaScript Fundamentals
-Start here if you're new to programming or JavaScri 
-pt:
+Start here if you're new to programming or JavaScript:
 
 1. [[01 - Introduction to JavaScript]]
 2. [[02 - Variables and Data Types]]

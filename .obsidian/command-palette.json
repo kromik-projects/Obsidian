@@ -1,0 +1,7 @@
+{
+  "pinned": [
+    "obsidian-git:init-repo",
+    "workspace:copy-url",
+    "obsidian-git:switch-branch"
+  ]
+}
